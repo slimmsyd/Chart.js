@@ -154,7 +154,7 @@ export default function ChartComponent() {
 <button onClick={() => changeTimeframe('M')}>M</button>
 
 
-<div className = {styles.chart_dropdown_image}>å
+<div className = {styles.chart_dropdown_image}>
 <Image src = {DownIcon} width={100} height={100} />
 </div>
 
