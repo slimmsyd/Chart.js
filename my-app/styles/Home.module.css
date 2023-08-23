@@ -39,6 +39,9 @@
   border: none;
   cursor: pointer;
 }
+.button_widthFixed{
+  width: 40px;
+}
 .icon_button:hover{
   background:#c6c6c6;
   border-radius: 9px;
